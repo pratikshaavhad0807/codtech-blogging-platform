@@ -9,6 +9,10 @@ mentor:Muzammil Ahmed
                 overview of project
 project: blogging platform
 ![Screenshot_3-8-2024_21575_127 0 0 1](https://github.com/user-attachments/assets/41954fc7-b40a-4c22-bffa-c6d31131eaa5)
+![Screenshot_3-8-2024_215630_127 0 0 1](https://github.com/user-attachments/assets/d7e60ce7-9130-4308-972e-67e88615de0e)
+![Screenshot_3-8-2024_215719_127 0 0 1](https://github.com/user-attachments/assets/20634fc8-06f4-4d7e-936e-0d936aba4d1d)
+![Uploading Screenshot_3-8-2024_215737_127.0.0.1.jpeg…]()
+![Uploading Screenshot_3-8-2024_215750_127.0.0.1.jpeg…]()
 
  
 
