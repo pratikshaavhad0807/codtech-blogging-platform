@@ -16,17 +16,19 @@ project: blogging platform
 
  
 
- objective
+ objective:
+ 
     In this project we can create blog. In this blog we can share your knowledge ,
     as like your experiences,your skills etc.
     
-key activities
+key activities:
+
     signup :In signup you can create your account.
     logging: In logging you can see your accoutn.
     post: In post you can upload your post.
     delete: we can delet a post.
 
-used technologies
+used technologies:
     html
     css
     java script
