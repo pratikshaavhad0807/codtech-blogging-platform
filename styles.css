@@ -1,0 +1,108 @@
+/* style.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url(abc.jpg);
+    color: #333;
+}
+
+header {
+    background-color: rgba(0, 0, 0, 0);
+    color: #000000;
+    padding: 1rem 2rem;
+    text-align: center;
+}
+
+header h1 {
+    margin: 10px;
+}
+
+nav {
+    margin-top: 1rem;
+    margin:10px;
+}
+
+nav a {
+    color: #000000;
+    text-decoration: none;
+    margin:  65px;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+section {
+    padding: 2rem;
+    margin: 1rem auto;
+    background:rgba(0, 0, 0, 0);
+    max-width: 600px;
+  
+
+}
+
+section h2 {
+    margin-top: 0;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+form label {
+    margin: 5px 0;
+}
+
+form input, form textarea {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 100%;
+}
+
+form button {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color:rgba(0, 0, 0, 0);
+    color: #000000;
+    cursor: pointer;
+}
+
+form button:hover {
+    background-color: #16e603;
+}
+
+#post-list {
+    display: flex;
+    flex-direction: column;
+}
+
+.post {
+    background-color: rgba(0, 0, 0, 0);
+    padding: 10px;
+    margin-bottom: 10px;
+    color: #000000;
+}
+
+.post h3 {
+    margin-top: 10px;
+    
+
+}
+
+.post .actions {
+    display: flex;
+    justify-content: flex-end;
+    
+}
+
+.post .actions button {
+    margin-left: 10px;
+    color: #000000;
+    background-color: #ebf3eb;
+}
+
