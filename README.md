@@ -8,25 +8,20 @@ mentor:Muzammil Ahmed
 
                 overview of project
 project: blogging platform
-![Screenshot_3-8-2024_21575_127 0 0 1](https://github.com/user-attachments/assets/41954fc7-b40a-4c22-bffa-c6d31131eaa5)
-![Screenshot_3-8-2024_215630_127 0 0 1](https://github.com/user-attachments/assets/d7e60ce7-9130-4308-972e-67e88615de0e)
-![Screenshot_3-8-2024_215719_127 0 0 1](https://github.com/user-attachments/assets/20634fc8-06f4-4d7e-936e-0d936aba4d1d)
-![Uploading Screenshot_3-8-2024_215737_127.0.0.1.jpeg…]()
-![Uploading Screenshot_3-8-2024_215750_127.0.0.1.jpeg…]()
-
- 
+ ![login](https://github.com/user-attachments/assets/e886a9ec-4686-4731-995e-a159eab484b6)
+ ![new post](https://github.com/user-attachments/assets/98847394-244b-432d-b191-80b401f584b7)
+![register](https://github.com/user-attachments/assets/a3264932-2737-4902-9f91-c81642169def)
+![blog](https://github.com/user-attachments/assets/e449c7d4-8bec-48f5-bbde-7d09371ca59d)
 
  objective:
  
-    In this project we can create blog. In this blog we can share your knowledge ,
-    as like your experiences,your skills etc.
+    Blogging platforms are used for several reasons, primarily because they provide a user-friendly and feature-rich environment for creating, managing, and distributing content online. Here are the key reasons why individuals and businesses use blogging platforms:
     
 key activities:
 
-    signup :In signup you can create your account.
+    register:In signup you can create your account.
     logging: In logging you can see your accoutn.
-    post: In post you can upload your post.
-    delete: we can delet a post.
+    create post: In post you can upload post, create post, edit post  and delete post. 
 
 used technologies:
     html
